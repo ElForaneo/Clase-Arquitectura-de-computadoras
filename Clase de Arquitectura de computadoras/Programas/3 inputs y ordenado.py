@@ -8,5 +8,3 @@ lista.append(int(input("Ingrese el tercer numero: ")))
 lista.sort()
 print("Tu lista ordenada:" + " ", lista)
 
-
-print("Cosas")
